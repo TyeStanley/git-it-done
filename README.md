@@ -1,1 +1,1 @@
-# git-itdone
+# git-it-done
